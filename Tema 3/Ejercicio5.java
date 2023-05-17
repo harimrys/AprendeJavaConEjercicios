@@ -1,5 +1,7 @@
   /* Escribe un programa que calcule el área de un rectángulo */     
 
+import java.util.Scanner;
+
 public class Ejercicio5 {
     public static void main(String args[]) {
       Scanner area = new Scanner(System.in);
