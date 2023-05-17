@@ -1,5 +1,5 @@
-/* Realiza un conversor de pesetas a euros. La cantidad de pesetas que se quiere convertir 
-debe ser introducida por teclado. */
+/* Realiza un conversor de pesetas a euros. La cantidad de pesetas que se 
+quiere convertir debe ser introducida por teclado. */
 
 import java.util.Scanner;
 
