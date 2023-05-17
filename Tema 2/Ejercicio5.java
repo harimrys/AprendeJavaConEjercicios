@@ -6,6 +6,5 @@ public class Ejercicio5 {
       double euro1 = 0.006;
       double peseta1 = 400;
       System.out.println(peseta1 * euro1);
-      System.out.println();
     }
 }
