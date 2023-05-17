@@ -1,5 +1,7 @@
 /* Escribe un programa que sume, reste, multiplique y divida dos números introducidos por teclado. */
 
+import java.util.Scanner;
+
 public class Ejercicio4 {
     public static void main(String args[]) {
       Scanner num = new Scanner(System.in);
