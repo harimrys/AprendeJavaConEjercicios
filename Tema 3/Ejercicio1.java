@@ -1,4 +1,5 @@
 /* Realiza un programa que pida dos números y que luego muestre el resultado de su multiplicación. */
+import java.util.Scanner;
 
 public class Ejercicio1 {
     public static void main(String args[]) {
