@@ -1,5 +1,7 @@
 /* Escribe un programa que calcule el área de un triángulo. */
 
+import java.util.Scanner;
+
 public class Ejercicio6 {
     public static void main(String args[]) {
       Scanner trian = new Scanner(System.in);
