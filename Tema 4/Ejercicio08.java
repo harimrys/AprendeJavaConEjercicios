@@ -3,7 +3,7 @@ suficiente, bien, notable o sobresaliente). */
 
 import java.util.Scanner;
 
-public class Ejercicio7 {
+public class Ejercicio08 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         
