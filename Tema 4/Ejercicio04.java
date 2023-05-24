@@ -4,7 +4,7 @@ en cuenta que las horas ordinarias (40 primeras horas de trabajo) se pagan a
 
 import java.util.Scanner;
 
-public class Ejercicio4 {
+public class Ejercicio04 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         
