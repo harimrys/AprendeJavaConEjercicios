@@ -4,7 +4,7 @@ buenas tardes o buenas noches según la hora. Se utilizarán los tramos de
 
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class Ejercicio02 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         
