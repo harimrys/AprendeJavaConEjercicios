@@ -13,7 +13,6 @@ public class MyClass {
         //Primera pregunta
         System.out.println("Cuantos hijos tuvieron Anakin y Padme?");
         int a = sc.nextInt();
-        
         if(a == 2){
             System.out.println("Bieen!");
             count++;
@@ -25,8 +24,7 @@ public class MyClass {
         
         //Segunda pregunta
         System.out.println("Con cuantos sables suele pelear Ahsoka?");
-        int b = sc.nextInt();
-        
+        int b = sc.nextInt();        
         if(b == 2){
             System.out.println("Bieen!");
             count++;
