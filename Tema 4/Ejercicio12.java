@@ -3,7 +3,7 @@ sumará un punto. El programa mostrará al final la calificación obtenida. */
 
 import java.util.Scanner;
 
-public class MyClass {
+public class Ejercicio12 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         
